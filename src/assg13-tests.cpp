@@ -31,5 +31,3 @@ TEST_CASE("<list> test list STL container", "[task1]")
   CHECK_FALSE(l1.empty());
   CHECK(l1.size() == 1);
 }
-
-
