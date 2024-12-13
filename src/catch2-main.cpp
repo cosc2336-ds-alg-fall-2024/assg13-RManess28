@@ -15,3 +15,8 @@
  */
 #define CATCH_CONFIG_MAIN
 #include "catch.hpp"
+
+#include <iostream>
+#include <map>
+#include <queue>
+#include <stack>
